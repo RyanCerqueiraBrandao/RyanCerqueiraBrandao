@@ -37,7 +37,11 @@ Atualmente, tenho experiência com as seguintes linguagens:
 Aqui você vai encontrar repositórios variados, desde estudos pessoais até aplicações mais completas.
 
 Sinta-se à vontade para explorar, dar sugestões ou entrar em contato!
-
+<div style="width: 200px;">
+<a href="https://github.com/RyanCerqueiraBrandao/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 ---
 
 ## 📫 Contato
