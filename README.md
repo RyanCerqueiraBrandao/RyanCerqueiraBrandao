@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
+#  Olá! Seja bem-vindo(a) 
 
 Meu nome é **Ryan** e este é o meu espaço para compartilhar projetos, estudos e experimentos com programação.
 
@@ -37,11 +37,14 @@ Atualmente, tenho experiência com as seguintes linguagens:
 Aqui você vai encontrar repositórios variados, desde estudos pessoais até aplicações mais completas.
 
 Sinta-se à vontade para explorar, dar sugestões ou entrar em contato!
-<div style="width: 200px;">
-<a href="https://github.com/RyanCerqueiraBrandao/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&langs_count=8" alt="Top Langs" />
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+   <a href="https://github.com/RyanCerqueiraBrandao">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 📫 Contato
@@ -50,4 +53,6 @@ Sinta-se à vontade para explorar, dar sugestões ou entrar em contato!
 - E-mail: ryancerqueira44@gmail.com
 
 
-
+<p align="center">
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
