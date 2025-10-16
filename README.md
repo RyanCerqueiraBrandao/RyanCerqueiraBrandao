@@ -1,42 +1,84 @@
-#  Olá! Seja bem-vindo(a) 
+#  Welcome To My Git Hub!
 
-Meu nome é **Ryan** e este é o meu espaço para compartilhar projetos, estudos e experimentos com programação.
+My name is **Ryan** and this is my space to share projects, studies, and programming experiments.
 
-## 🎓 Sobre mim
+## 🎓 About Me
 
-- 📚 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
-- 🎯 Almejo ingressar no curso de **Sistemas de Informação** no **IFBA**
-- 🛡️ Já concluí os cursos de **Conceitos Básicos de Redes** e **Defesa de Redes** pela **Cisco Networking Academy** <img align="center" alt="Cisco" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/cisco.svg">
+- 📚 Student of **Systems Development** at **SENAI**  <img align="center" alt="Cisco" height="30" width="40" src="https://www.logopng.com.br/logos/senai-165.svg">
+- 🎯 I aim to enroll in the **Information Systems** course at **IFBA** <img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg">
+- 🛡️ I have completed the courses **Basic Networking Concepts** and **Network Defense** from **Cisco Networking Academy** <img align="center" alt="Cisco" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/cisco.svg">
 
 
-
-  
 <br/>
 
-## 🚀 Tecnologias que eu trabalho
+## 🚀 Technologies I Work With
 
-Atualmente, tenho experiência com as seguintes linguagens:
 
-- **C**
-- **C++**
-- **Java**
-- **Python**
-- **HTML/CSS**
+<p align="left">
+  💻 <strong>Languages: </strong><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-38BDAE?style=for-the-badge&logo=python">
+    <img alt="Python" src="https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=OpenJDK">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-38BDAE?style=for-the-badge&logo=OpenJDK">
+    <img alt="Java" src="https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=OpenJDK">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/C-232F3E?style=for-the-badge&logo=c&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-38BDAE?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-232F3E?style=for-the-badge&logo=c&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/C%2B%2B-232F3E?style=for-the-badge&logo=c%2B%2B">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%2B%2B-38BDAE?style=for-the-badge&logo=c%2B%2B">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-232F3E?style=for-the-badge&logo=c%2B%2B">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-38BDAE?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-38BDAE?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=white">
+  </picture>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
 
-<br/><br/>
 
-Aqui você vai encontrar repositórios variados, desde estudos pessoais até aplicações mais completas.
+<p align="left">
+  🛠️ <strong>Tools: </strong><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL-38BDAE?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-38BDAE?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=arduino&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arduino-38BDAE?style=for-the-badge&logo=arduino&logoColor=white">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=arduino&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/VS%20Code-232F3E?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS%20Code-38BDAE?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-232F3E?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/IntelliJ%20IDEA-232F3E?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IntelliJ%20IDEA-38BDAE?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-232F3E?style=for-the-badge&logo=intellijidea&logoColor=white">
+  </picture>
+</p>
 
-Sinta-se à vontade para explorar, dar sugestões ou entrar em contato!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
    <a href="https://github.com/RyanCerqueiraBrandao">
@@ -45,12 +87,35 @@ Sinta-se à vontade para explorar, dar sugestões ou entrar em contato!
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 📫 Contato
+## 📫 Contact
 
-- GitHub: [RyanCerqueiraBrandao](https://github.com/RyanCerqueiraBrandao)  
-- E-mail: ryancerqueira44@gmail.com
+<p align="left">
+  🔗 <strong>Social Links:</strong><br><br>
+  <a href="mailto:ryancerqueira@gmail.com" title="Gmail"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-232F3E?logo=gmail&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-38BDAE?logo=gmail&style=for-the-badge">
+    <img hspace="2" src="https://img.shields.io/badge/Gmail-232F3E?logo=gmail&style=for-the-badge" alt="Gmail"/></picture></a>
+  <a href="https://www.linkedin.com/in/seu-perfil" title="LinkedIn"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/LinkedIn-232F3E?logo=linkedin-white&logoColor=fff&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/LinkedIn-38BDAE?logo=linkedin-white&logoColor=fff&style=for-the-badge">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-232F3E?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn"></picture></a>
+  <a href="https://github.com/RyanCerqueiraBrandao" title="GitHub"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-232F3E?logo=github&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-38BDAE?logo=github&style=for-the-badge">
+    <img hspace="2" src="https://img.shields.io/badge/GitHub-232F3E?logo=github&style=for-the-badge" alt="GitHub"/></picture></a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/_REcgbScjmgAAAAC/l.gif" alt="L from Death Note" width="300">
+</p>
+
+<p align="center">
+  <em>"A verdadeira justiça nunca teme o julgamento."</em>
+</p>
+
 
 
 <p align="center">
