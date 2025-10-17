@@ -78,15 +78,12 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-232F3E?style=for-the-badge&logo=intellijidea&logoColor=white">
   </picture>
 </p>
- Badges
- 
+ 🏅 <strong>Badges: </strong><br><br>
+     
 <p align="left">
   <a href="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png"><img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="NetworkDefense" hspace=10 width="124px"></a>
-
   <a href="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="NetworkBasics" hspace=10 width="124px"></a>
- 
-  <a href="\https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="IntroductiontoCybersecurity" hspace=10 width="124px"></a>
-  
+ <a href="\https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="IntroductiontoCybersecurity" hspace=10 width="124px"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
