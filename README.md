@@ -1,4 +1,15 @@
-#  Welcome To My Git Hub!
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%21;Welcome+To+My+GitHub+Profile%21" 
+    alt="Typing Animation"
+  />
+</p>
+
+
+
+
+
 
 My name is **Ryan** and this is my space to share projects, studies, and programming experiments.
 
