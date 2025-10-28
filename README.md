@@ -27,6 +27,11 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <img alt="Java" src="https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=OpenJDK">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Kotlin-232F3E?style=for-the-badge&logo=kotlin">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kotlin-38BDAE?style=for-the-badge&logo=kotlin">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-232F3E?style=for-the-badge&logo=kotlin">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/C-232F3E?style=for-the-badge&logo=c&logoColor=white">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-38BDAE?style=for-the-badge&logo=c&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C-232F3E?style=for-the-badge&logo=c&logoColor=white">
@@ -47,6 +52,7 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=white">
   </picture>
 </p>
+
 
 
 
