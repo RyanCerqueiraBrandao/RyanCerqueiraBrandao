@@ -1,11 +1,6 @@
-
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%21;Welcome+To+My+GitHub+Profile%21" 
-    alt="Typing Animation"
-  />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=0EEEF7&width=435&lines=%F0%9F%91%8B+Hello!;My+name+Is+Ryan;Welcome+To+My+Git+Hub+Profile!" alt="Typing SVG" /></a>
 </p>
-
 
 
 
@@ -85,6 +80,11 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=arduino&logoColor=white">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Tinkercad-232F3E?style=for-the-badge&logo=tinkercad&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tinkercad-38BDAE?style=for-the-badge&logo=tinkercad&logoColor=white">
+    <img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-232F3E?style=for-the-badge&logo=tinkercad&logoColor=white">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/VS%20Code-232F3E?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS%20Code-38BDAE?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-232F3E?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -95,6 +95,9 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-232F3E?style=for-the-badge&logo=intellijidea&logoColor=white">
   </picture>
 </p>
+
+
+
  🏅 <strong>Badges: </strong><br><br>
      
 <p align="left">
