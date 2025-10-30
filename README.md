@@ -106,18 +106,6 @@ My name is **Ryan** and this is my space to share projects, studies, and program
  <a href="\https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="IntroductiontoCybersecurity" hspace=10 width="124px"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-   <a href="https://github.com/RyanCerqueiraBrandao">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
-</picture>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 📫 Contact
@@ -139,14 +127,18 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 </p>
 
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/_REcgbScjmgAAAAC/l.gif" alt="L from Death Note" width="300">
-</p>
-
-<p align="center">
-  <em>"A verdadeira justiça nunca teme o julgamento."</em>
-</p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+   <a href="https://github.com/RyanCerqueiraBrandao">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+     <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
+</picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center">
