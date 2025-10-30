@@ -128,10 +128,11 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-   <a href="https://github.com/RyanCerqueiraBrandao">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/RyanCerqueiraBrandao">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&bg_color=0d1117&title_color=00eaff&text_color=00eaff&icon_color=0077ff&border_color=00eaff&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&bg_color=0d1117&title_color=00eaff&text_color=00eaff&icon_color=0077ff&border_color=00eaff&hide_border=false"/>
+  </a>
 </div>
      <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph-dark.svg">
