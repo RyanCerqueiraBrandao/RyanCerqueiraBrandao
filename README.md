@@ -141,7 +141,13 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 </picture>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/_REcgbScjmgAAAAC/l.gif" alt="L from Death Note" width="300">
+</p>
 
+<p align="center">
+  <em>"A verdadeira justiça nunca teme o julgamento."</em>
+</p>
 <p align="center">
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
