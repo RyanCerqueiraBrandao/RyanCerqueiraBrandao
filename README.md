@@ -112,6 +112,11 @@ My name is **Ryan** and this is my space to share projects, studies, and program
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+     <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
+</picture>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -132,7 +137,6 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-38BDAE?logo=github&style=for-the-badge">
     <img hspace="2" src="https://img.shields.io/badge/GitHub-232F3E?logo=github&style=for-the-badge" alt="GitHub"/></picture></a>
 </p>
-
 
 
 <p align="center">
