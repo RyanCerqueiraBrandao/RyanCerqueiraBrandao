@@ -94,7 +94,13 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IntelliJ%20IDEA-38BDAE?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-232F3E?style=for-the-badge&logo=intellijidea&logoColor=white">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Android%20Studio-232F3E?style=for-the-badge&logo=androidstudio&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Android%20Studio-38BDAE?style=for-the-badge&logo=androidstudio&logoColor=white">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-232F3E?style=for-the-badge&logo=androidstudio&logoColor=white">
+  </picture>
 </p>
+
 
 
 
