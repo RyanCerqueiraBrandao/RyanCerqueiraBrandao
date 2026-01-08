@@ -119,11 +119,11 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 
 <p align="left">
   🔗 <strong>Social Links:</strong><br><br>
-  <a href="mailto:ryancerqueira@gmail.com" title="Gmail"><picture>
+  <a href="mailto:ryancerqueiradev@gmail.com" title="Gmail"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-232F3E?logo=gmail&style=for-the-badge">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-38BDAE?logo=gmail&style=for-the-badge">
     <img hspace="2" src="https://img.shields.io/badge/Gmail-232F3E?logo=gmail&style=for-the-badge" alt="Gmail"/></picture></a>
-  <a href="https://www.linkedin.com/in/seu-perfil" title="LinkedIn"><picture>
+  <a href="https://www.linkedin.com/in/ryan-brand%C3%A3o-621619279" title="LinkedIn"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/LinkedIn-232F3E?logo=linkedin-white&logoColor=fff&style=for-the-badge">
     <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/LinkedIn-38BDAE?logo=linkedin-white&logoColor=fff&style=for-the-badge">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-232F3E?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn"></picture></a>
