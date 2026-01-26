@@ -107,11 +107,28 @@ My name is **Ryan** and this is my space to share projects, studies, and program
  🏅 <strong>Badges: </strong><br><br>
      
 <p align="left">
-  <a href="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png"><img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="NetworkDefense" hspace=10 width="124px"></a>
-  <a href="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="NetworkBasics" hspace=10 width="124px"></a>
- <a href="\https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="IntroductiontoCybersecurity" hspace=10 width="124px"></a>
-  <a href="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"><img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="IntroductiontoDataScience" hspace=10 width="124px"></a>
+  <a href="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png">
+    <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="NetworkDefense" hspace="10" width="124">
+  </a>
+
+  <a href="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png">
+    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="NetworkBasics" hspace="10" width="124">
+  </a>
+
+  <a href="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="IntroductiontoCybersecurity" hspace="10" width="124">
+  </a>
+
+  <a href="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png">
+    <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="IntroductiontoDataScience" hspace="10" width="124">
+  </a>
+
+  <a href="https://www.credly.com/org/ibm/badge/build-your-first-chatbot">
+    <img src="https://github.com/user-attachments/assets/f038ad45-613c-4364-9545-ee3c11e5cd18" alt="IBM - Build Your First Chatbot" hspace="10" width="124">
+  </a>
 </p>
+
+
 
 
 
