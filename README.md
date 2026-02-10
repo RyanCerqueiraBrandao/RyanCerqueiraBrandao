@@ -126,6 +126,12 @@ My name is **Ryan** and this is my space to share projects, studies, and program
   <a href="https://www.credly.com/org/ibm/badge/build-your-first-chatbot">
     <img src="https://github.com/user-attachments/assets/f038ad45-613c-4364-9545-ee3c11e5cd18" alt="IBM - Build Your First Chatbot" hspace="10" width="124">
   </a>
+
+<a href="https://www.credly.com/org/ibm/badge/web-development-fundamentals">
+    <img src="https://images.credly.com/size/340x340/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="IBM Web Development Fundamentals" hspace="10" width="124">
+  </a>
+    
+
 </p>
 
 
