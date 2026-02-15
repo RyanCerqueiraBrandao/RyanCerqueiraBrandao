@@ -123,6 +123,10 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="IntroductiontoDataScience" hspace="10" width="124">
   </a>
 
+  <a href="https://github.com/user-attachments/assets/2b1e5ff1-fa20-4fbe-b4b9-0409c1bcc40d">
+    <img src="https://images.credly.com/size/340x340/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" alt="Learn-A-Thon" hspace="10" width="124">
+  </a>
+
   <a href="https://www.credly.com/org/ibm/badge/build-your-first-chatbot">
     <img src="https://github.com/user-attachments/assets/f038ad45-613c-4364-9545-ee3c11e5cd18" alt="IBM - Build Your First Chatbot" hspace="10" width="124">
   </a>
