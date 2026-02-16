@@ -10,8 +10,7 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 
 ## 🎓 About Me
 
-- 📚 Student of **Systems Development** at **SENAI**  <img align="center" alt="Cisco" height="30" width="40" src="https://www.logopng.com.br/logos/senai-165.svg">
-- 🎯 I aim to enroll in the **Information Systems** course at **IFBA** <img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg">
+- 📚 Student of **Systems Development** at **SENAI** and **Information Systems** course at **IFBA** <img align="center" alt="Cisco" height="30" width="40" src="https://www.logopng.com.br/logos/senai-165.svg"> <img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg">
 - 🛡️ I have completed the courses **Basic Networking Concepts** and **Network Defense** from **Cisco Networking Academy** <img align="center" alt="Cisco" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/cisco.svg">
 
 
