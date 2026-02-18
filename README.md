@@ -133,7 +133,11 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 <a href="https://www.credly.com/org/ibm/badge/web-development-fundamentals">
     <img src="https://images.credly.com/size/340x340/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="IBM Web Development Fundamentals" hspace="10" width="124">
   </a>
-    
+
+  <a href="https://www.credly.com/org/ibm/badge/data-fundamentals">
+    <img src="https://github.com/user-attachments/assets/15ec86e4-0ee3-4cd9-a834-f9db218a0d18" alt="IBM Data Fundamentals" hspace="10" width="124">
+  </a>
+
 
 </p>
 
