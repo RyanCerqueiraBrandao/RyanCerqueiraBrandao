@@ -138,6 +138,9 @@ My name is **Ryan** and this is my space to share projects, studies, and program
     <img src="https://github.com/user-attachments/assets/15ec86e4-0ee3-4cd9-a834-f9db218a0d18" alt="IBM Data Fundamentals" hspace="10" width="124">
   </a>
 
+   <a href="https://www.credly.com/org/ibm/badge/cloud-computing-fundamentals">
+    <img src="https://images.credly.com/size/340x340/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png" alt="IBM Cloud Computing Fundamentals" hspace="10" width="124">
+  </a>
 
 </p>
 
