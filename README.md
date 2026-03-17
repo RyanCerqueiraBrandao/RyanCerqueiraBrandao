@@ -141,6 +141,10 @@ My name is **Ryan** and this is my space to share projects, studies, and program
    <a href="https://www.credly.com/org/ibm/badge/cloud-computing-fundamentals">
     <img src="https://images.credly.com/size/340x340/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png" alt="IBM Cloud Computing Fundamentals" hspace="10" width="124">
   </a>
+ 
+   <a href="https://www.credly.com/org/ibm/badge/artificial-intelligence-fundamentals">
+    <img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="IBM Artificial Intelligence Fundamentals" hspace="10" width="124">
+  </a>
 
 </p>
 
