@@ -21,7 +21,7 @@ Hello, my name is **Ryan**. I am a **Systems Development student** focused on bu
 
 - 🧠 Back-end Development
 - 🗄️ Database Design & Management
-- 🤖 Artificial Intelligence & Computer Vision
+- 🤖 Machine Learning & Computer Vision
 - 📱 Mobile Development (Android)
 - ⚙️ Systems Architecture & APIs
 
