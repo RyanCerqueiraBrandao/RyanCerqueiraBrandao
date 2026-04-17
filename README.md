@@ -2,19 +2,36 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=0EEEF7&width=435&lines=%F0%9F%91%8B+Hello!;My+name+Is+Ryan;Welcome+To+My+Git+Hub+Profile!" alt="Typing SVG" /></a>
 </p>
 
-My name is **Ryan** and this is my space to share projects, studies, and programming experiments.
+<h3 align="center">💻 Software Developer | Focused on Back-end, AI & Data Bases</h3>
+
+---
 
 ## 🎓 About Me
 
-- Hello, I'm Ryan, a former civil engineering student at the State University of Feira de Santana (UEFS). I left the engineering course to pursue what has always been my true dream: the field of technology. I am currently enrolled in Information Systems at the Federal Institute of Bahia. <img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg">
+Hello, my name is **Ryan**. I am a **Systems Development student** focused on building real-world solutions and evolving as a software developer.
 
-<br/>
+- 🎓 Information Systems student at **IFBA**
+- 🏫 Systems Development student at **SENAI**
+- 🔄 Transitioned from **Civil Engineering (UEFS)** to follow my true passion: **Technology**
+- 🚀 Focused on **problem-solving, performance, and scalable systems**
+
+---
+
+## 🎯 Professional Focus
+
+- 🧠 Back-end Development
+- 🗄️ Database Design & Management
+- 🤖 Artificial Intelligence & Computer Vision
+- 📱 Mobile Development (Android)
+- ⚙️ Systems Architecture & APIs
+
+---
 
 ## 🚀 Technologies I Work With
 
-<p align="left">
-  💻 <strong>Languages: </strong><br><br>
-  <p>
+### 💻 Languages
+
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kotlin-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -25,9 +42,11 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="left">
-  🛠️ <strong>Tools: </strong><br><br>
-  <p>
+---
+
+### 🛠️ Tools
+
+<p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
@@ -38,10 +57,10 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
-</p>
+---
 
-🏅 <strong>Badges: </strong><br><br>
-     
+## 🏅 Certifications & Badges
+
 <p>
 <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="110"/>
 <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110"/>
@@ -53,50 +72,50 @@ My name is **Ryan** and this is my space to share projects, studies, and program
 <img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="110"/>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&bg_color=0d1117&title_color=00eaff&text_color=00eaff&icon_color=0077ff&border_color=00eaff&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&bg_color=0d1117&title_color=00eaff&text_color=00eaff&icon_color=0077ff&border_color=00eaff&cache_seconds=86400"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanCerqueiraBrandao&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff"/>
+</p>
+
+---
 
 ## 📫 Contact
 
-<p align="left">
-  🔗 <strong>Social Links:</strong><br><br>
-  <a href="mailto:ryancerqueiradev@gmail.com" title="Gmail"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-232F3E?logo=gmail&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-38BDAE?logo=gmail&style=for-the-badge">
-    <img hspace="2" src="https://img.shields.io/badge/Gmail-232F3E?logo=gmail&style=for-the-badge" alt="Gmail"/></picture></a>
-  <a href="https://www.linkedin.com/in/ryan-brand%C3%A3o-621619279" title="LinkedIn"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/LinkedIn-232F3E?logo=linkedin-white&logoColor=fff&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/LinkedIn-38BDAE?logo=linkedin-white&logoColor=fff&style=for-the-badge">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-232F3E?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn"></picture></a>
-  <a href="https://github.com/RyanCerqueiraBrandao" title="GitHub"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-232F3E?logo=github&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-38BDAE?logo=github&style=for-the-badge">
-    <img hspace="2" src="https://img.shields.io/badge/GitHub-232F3E?logo=github&style=for-the-badge" alt="GitHub"/></picture></a>
+<p>
+<a href="mailto:ryancerqueiradev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ryan-brand%C3%A3o-621619279">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/RyanCerqueiraBrandao">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <a href="https://github.com/RyanCerqueiraBrandao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanCerqueiraBrandao&show_icons=true&bg_color=0d1117&title_color=00eaff&text_color=00eaff&icon_color=0077ff&border_color=00eaff&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCerqueiraBrandao&layout=compact&langs_count=6&bg_color=0d1117&title_color=00eaff&text_color=00eaff&icon_color=0077ff&border_color=00eaff&hide_border=false&cache_seconds=86400"/>
-  </a>
-</div>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg"> <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/RyanCerqueiraBrandao/RyanCerqueiraBrandao/output/pacman-contribution-graph.svg"> </picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/_REcgbScjmgAAAAC/l.gif" alt="L from Death Note" width="300">
-</p>
+---
 
 <p align="center">
   <em>"A verdadeira justiça nunca teme o julgamento."</em>
 </p>
 
 <p align="center">
-     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:0077ff&height=80&section=footer"/>
 </p>
